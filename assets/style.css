@@ -2068,7 +2068,7 @@ body.royal_loader {
 }
 /* Call Back Form Hoem 1 */
 .cb-h1 {
-  background: url(images/bg-content/cb-h1.png) no-repeat;
+  background: url(cb-h1.png) no-repeat;
   background-size: cover;
 }
 .cb-form input.form-control {
