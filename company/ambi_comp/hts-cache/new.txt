@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-13:49:06	16550/16550	---M--	200	added ('OK')	text/html	date:Sun,%2004%20Feb%202018%2008:18:52%20GMT	https://ambidant.com/about.asp	C:/Users/Mohammed.Ahmad/Desktop/website/Ambi_full/company/ambi_comp/ambidant.com/about.html	(from )
-13:49:08	26/26	---M--	200	added ('OK')	text/plain	etag:%22805e67ccbe5ed31:0%22	https://ambidant.com/robots.txt		(from )
